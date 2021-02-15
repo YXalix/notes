@@ -19,10 +19,9 @@
        > ¸´ÖÆÊı¾İ¿â
     9. ```git pull <repository> <refspec>...```
        > À­È¥Ô¶³ÌÊı¾İ¿âµÄÄÚÈİ
-    10. > ×Ô¶¯ĞŞÕı³åÍ»¡¢ÊÖ¶¯ĞŞÕı³åÍ»£ºÏÈÀ­È¡£¬ĞŞ¸ÄºóÌá½
+    10. > ×Ô¶¯ĞŞÕı³åÍ»¡¢ÊÖ¶¯ĞŞÕı³åÍ»£ºÏÈÀ­È¡£¬ĞŞ¸ÄºóÌá?
     11. ```git branch <branchname>```
        > ´´½¨·ÖÖ§
-    12. ```git checkout <branchname>
+    12. ```git checkout <branchname> ```
        > ÇĞ»»·ÖÖ§
-
-    13. hello mynote
+    13. ``` git branch -d <branchname> # delete```
