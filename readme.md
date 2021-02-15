@@ -20,3 +20,7 @@
     9. ```git pull <repository> <refspec>...```
        > 拉去远程数据库的内容
     10. > 自动修正冲突、手动修正冲突：先拉取，修改后提交
+    11. ```git branch <branchname>```
+       > 创建分支
+    12. ```git checkout <branchname>
+       > 切换分支
