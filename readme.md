@@ -24,3 +24,5 @@
        > 创建分支
     12. ```git checkout <branchname>
        > 切换分支
+
+    13. hello mynote
