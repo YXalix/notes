@@ -25,5 +25,6 @@
     12. ```git checkout <branchname> ```
        > «–ªª∑÷÷ß
     13. ``` git branch -d <branchname> # delete```
+    14. ``` git tag <tagname> # add tag```
     14. > pull note
-    13. hello mynote
+    13. hello mynote 
