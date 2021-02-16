@@ -30,5 +30,7 @@
         > HEAD~删除一次提交，~~两次，ORIG_HEAD 回到上次撤销的状态
     16. ``` git cherry-pick <commithash> ```
         > 将指定的提交（commit）应用于其他分支
+    17. ``` git merge -squash <branchname>```
+        > -squash 可合并被merge分支所有的提交为一个提交，并merge进当前分支
     14. > pull note
     13. hello mynote 
