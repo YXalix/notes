@@ -7,8 +7,8 @@
        > 确认工作树和索引的状态
     3. ```git add <file>..```
        > 将文件加到索引、tips：git add . 可添加所有
-    4. ```git commit -m "" ```
-       > 提交文件
+    4. ``` git commit -m  -amend"" ```
+       > 提交文件 -m(message) -amend(change message)
     5. ```git log ```
        > 查看提交记录
     6. ```git remote add <name> <url> ```
