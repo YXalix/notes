@@ -26,5 +26,7 @@
        > 切换分支
     13. ``` git branch -d <branchname> # delete```
     14. ``` git tag <tagname> # add tag```
+    15. ``` git reset --hard HEAD```
+        > HEAD~删除一次提交，~~两次，ORIG_HEAD 回到上次撤销的状态
     14. > pull note
     13. hello mynote 
